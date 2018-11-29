@@ -8,3 +8,9 @@
 - [MVC使用Ioptions读取配置](https://github.com/coderdp/StartNetCore/blob/master/CommandLineSample/OptionsBindSample/Startup.cs)
 - [配置热更新](https://github.com/coderdp/StartNetCore/tree/master/CommandLineSample/OptionsBindSample),[View热更新](https://github.com/coderdp/StartNetCore/blob/master/CommandLineSample/OptionsBindSample/Views/Home/Index2.cshtml)和[Controller的热更新](https://github.com/coderdp/StartNetCore/blob/master/CommandLineSample/OptionsBindSample/Controllers/HomeController.cs)
 
+## 依赖注入
+
+- [了解ASP.NET Core 依赖注入](http://www.jessetalk.cn/2017/11/06/di-in-aspnetcore/) From [Jesse](http://www.jessetalk.cn/who-is-jesse/)
+
+- [DI初始化源码](https://github.com/aspnet/Hosting)
+- 源码解析：
