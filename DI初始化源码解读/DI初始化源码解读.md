@@ -17,6 +17,4 @@
 
 # 图例（来源于[jesse](http://video.jessetalk.cn/course/4/task/20/show)）
 
-
-
-![图片](https://portal.qiniu.com/bucket/netcore/resource)
+![图片](http://piymyh9cv.bkt.clouddn.com/DI_Start.jpg)
