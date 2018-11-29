@@ -1,0 +1,19 @@
+﻿@using OptionsBindSample
+@using Microsoft.Extensions.Options
+@*@inject IOptions<Class> classAccessor*@
+@inject IOptionsSnapshot<Class> classAccessor
+@*IOptionsSnapshot使用热更新配置*@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index2</h2>
+<h4>ClassNo：@classAccessor.Value.ClassNo</h4>
+<h4>ClassDesc：@classAccessor.Value.ClassDesc</h4>
+<h4>Students:</h4>
+@foreach (var item in classAccessor.Value.Students)
+{
+    <h5>Name：@item.Name</h5>
+    <h5>Age：@item.Age</h5>
+    <br />
+}
