@@ -13,4 +13,5 @@
 - [了解ASP.NET Core 依赖注入](http://www.jessetalk.cn/2017/11/06/di-in-aspnetcore/) From [Jesse](http://www.jessetalk.cn/who-is-jesse/)
 
 - [DI初始化源码](https://github.com/aspnet/Hosting)
-- 源码解析：
+- [源码解析](https://github.com/coderdp/StartNetCore/blob/master/DI%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/DI%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.md)
+
