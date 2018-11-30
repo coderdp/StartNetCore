@@ -15,4 +15,6 @@
 - [DI初始化源码](https://github.com/aspnet/Hosting)
 - [源码解析](https://github.com/coderdp/StartNetCore/blob/master/DI%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/DI%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.md)
 
-## [http管道相关](https://github.com/coderdp/StartNetCore/tree/master/HelloCore)
+## http管道
+
+- [管道初识](https://github.com/coderdp/StartNetCore/tree/master/HelloCore)
